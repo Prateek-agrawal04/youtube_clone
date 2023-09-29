@@ -37,45 +37,6 @@ class HomeScreen extends StatelessWidget {
                     child:
                         ElevatedButton(onPressed: () {}, child: Text(elements)),
                   ),
-                // for (final elements in topRow)
-                //   const SizedBox(
-                //     width: 5,
-                //   ),
-                // ElevatedButton(
-                //     onPressed: () {}, child: const Text('New to you')),
-                // const SizedBox(
-                //   width: 5,
-                // ),
-                // ElevatedButton(onPressed: () {}, child: const Text('Music')),
-                // const SizedBox(
-                //   width: 5,
-                // ),
-                // ElevatedButton(onPressed: () {}, child: const Text('Gaming')),
-                // const SizedBox(
-                //   width: 5,
-                // ),
-                // ElevatedButton(onPressed: () {}, child: const Text('Mixes')),
-                // const SizedBox(
-                //   width: 5,
-                // ),
-                // ElevatedButton(onPressed: () {}, child: const Text('Live')),
-                // const SizedBox(
-                //   width: 5,
-                // ),
-                // ElevatedButton(onPressed: () {}, child: const Text('News')),
-                // const SizedBox(
-                //   width: 5,
-                // ),
-                // ElevatedButton(
-                //     onPressed: () {}, child: const Text('Recently Uploaded')),
-                // const SizedBox(
-                //   width: 5,
-                // ),
-                // ElevatedButton(
-                //     onPressed: () {}, child: const Text('New to you')),
-                // const SizedBox(
-                //   width: 5,
-                // ),
                 TextButton(
                     onPressed: () {},
                     child: const Text(
@@ -115,3 +76,43 @@ class HomeScreen extends StatelessWidget {
     );
   }
 }
+
+                // for (final elements in topRow)
+                //   const SizedBox(
+                //     width: 5,
+                //   ),
+                // ElevatedButton(
+                //     onPressed: () {}, child: const Text('New to you')),
+                // const SizedBox(
+                //   width: 5,
+                // ),
+                // ElevatedButton(onPressed: () {}, child: const Text('Music')),
+                // const SizedBox(
+                //   width: 5,
+                // ),
+                // ElevatedButton(onPressed: () {}, child: const Text('Gaming')),
+                // const SizedBox(
+                //   width: 5,
+                // ),
+                // ElevatedButton(onPressed: () {}, child: const Text('Mixes')),
+                // const SizedBox(
+                //   width: 5,
+                // ),
+                // ElevatedButton(onPressed: () {}, child: const Text('Live')),
+                // const SizedBox(
+                //   width: 5,
+                // ),
+                // ElevatedButton(onPressed: () {}, child: const Text('News')),
+                // const SizedBox(
+                //   width: 5,
+                // ),
+                // ElevatedButton(
+                //     onPressed: () {}, child: const Text('Recently Uploaded')),
+                // const SizedBox(
+                //   width: 5,
+                // ),
+                // ElevatedButton(
+                //     onPressed: () {}, child: const Text('New to you')),
+                // const SizedBox(
+                //   width: 5,
+                // ),

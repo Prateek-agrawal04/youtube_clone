@@ -71,6 +71,28 @@ flutter:
     - assets/yt-8.jpeg
     - assets/yt-9.jpeg
     - assets/yt-10.jpeg
+    - assets/ytp-1.jpeg
+    - assets/ytp-2.jpeg
+    - assets/ytp-3.jpeg
+    - assets/ytp-4.jpeg
+    - assets/ytp-5.jpeg
+    - assets/ytp-6.jpeg
+    - assets/ytp-7.jpeg
+    - assets/ytp-8.jpeg
+    - assets/ytp-9.jpeg
+    - assets/ytp-10.jpeg
+    - assets/ytp-11.jpeg
+    - assets/ytp-12.jpeg
+    - assets/ytp-13.jpeg
+    - assets/ytp-14.jpeg
+    - assets/ytp-15.jpeg
+    - assets/ytp-16.jpeg
+    - assets/ytp-17.jpeg
+    - assets/ytp-18.jpeg
+    - assets/ytp-19.jpeg
+    - assets/ytp-20.jpeg
+    - assets/ytp-21.jpeg
+    - assets/ytp-22.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

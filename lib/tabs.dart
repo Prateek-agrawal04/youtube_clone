@@ -118,8 +118,8 @@ class _TabsScreenState extends State<TabsScreen> {
             ),
             IconButton(
               onPressed: () {
-                Navigator.of(context)
-                    .push(MaterialPageRoute(builder: (ctx) => NotifScreen()));
+                Navigator.of(context).push(
+                    MaterialPageRoute(builder: (ctx) => const NotifScreen()));
               },
               icon: const Icon(Icons.notifications),
             ),
