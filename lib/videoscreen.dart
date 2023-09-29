@@ -195,8 +195,8 @@ class VideoScreen extends StatelessWidget {
                                 },
                                 child: Image.asset(
                                   'assets/yt-$i.jpeg',
-                                  cacheHeight: 350,
-                                  cacheWidth: 350,
+                                  cacheHeight: 300,
+                                  cacheWidth: 370,
                                 ),
                               ),
                             ),

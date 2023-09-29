@@ -93,6 +93,8 @@ flutter:
     - assets/ytp-20.jpeg
     - assets/ytp-21.jpeg
     - assets/ytp-22.jpeg
+    - assets/ytsh-1.png
+    - assets/ytsh-2.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
