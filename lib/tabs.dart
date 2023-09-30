@@ -4,6 +4,7 @@ import 'package:ytclone/createsheet.dart';
 import 'package:ytclone/homescreen.dart';
 import 'package:ytclone/library.dart';
 import 'package:ytclone/notif_screen.dart';
+import 'package:ytclone/shorts_screen.dart';
 import 'package:ytclone/subscriptions.dart';
 
 class TabsScreen extends StatefulWidget {
@@ -29,14 +30,17 @@ class _TabsScreenState extends State<TabsScreen> {
     if (_selectedPageIndex == 0) {
       activeScreen = HomeScreen();
     }
+    if (_selectedPageIndex == 1) {
+      activeScreen = const ShortsScreen();
+    }
     if (_selectedPageIndex == 2) {
       activeScreen = CreateSheet();
     }
     if (_selectedPageIndex == 3) {
-      activeScreen = SubscriptionsScreen();
+      activeScreen = const SubscriptionsScreen();
     }
     if (_selectedPageIndex == 4) {
-      activeScreen = LibraryScreen();
+      activeScreen = const LibraryScreen();
     }
 
     return Scaffold(
