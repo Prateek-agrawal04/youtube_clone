@@ -52,6 +52,8 @@ class ShortsScreen extends StatelessWidget {
                         onTap: () {},
                         child: Image.asset(
                           'assets/ytsh-$i.png',
+                          cacheHeight: 705,
+                          cacheWidth: 415,
                         ),
                       ),
                       Positioned(

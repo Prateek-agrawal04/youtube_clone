@@ -69,7 +69,7 @@ class _TabsScreenState extends State<TabsScreen> {
                             style: TextStyle(color: Colors.white),
                           ),
                           content: SizedBox(
-                            height: 110,
+                            height: 145,
                             child: Column(
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
@@ -132,12 +132,12 @@ class _TabsScreenState extends State<TabsScreen> {
               icon: const Icon(Icons.search),
             ),
             Container(
-                width: 30,
-                height: 30,
+                width: 40,
+                height: 40,
                 alignment: Alignment.center,
                 decoration: BoxDecoration(
                   color: const Color.fromARGB(51, 26, 107, 68),
-                  borderRadius: BorderRadius.circular(90),
+                  borderRadius: BorderRadius.circular(40),
                 ),
                 child: TextButton(
                     onPressed: () {
